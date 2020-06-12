@@ -1,0 +1,69 @@
+ body{
+   background-color: rgb(50, 1, 70);;
+ }
+ 
+ .all-journals {
+    margin: 10px;
+    padding: 5px;
+    background-color:rgb(50, 1, 70);
+  }
+  
+  .all-journals > h1, .journal {
+    margin: 10px;
+    padding: 5px;
+    background-color: antiquewhite;
+  }
+  
+  .intro, .outro {
+    margin: 10px;
+    padding: 5px;
+    background: rgb(59, 97, 79);
+    color: antiquewhite;
+  }
+  
+  .journal > h2, p {
+    margin : 4px;
+    font-size: 90%;
+  } 
+  
+  footer {
+    text-align: center;
+    margin: 10px;
+    padding: 5px;
+    background-color: rgb(32, 137, 179);
+    color: antiquewhite;
+  }
+
+  #entry{
+    font-family: cursive;
+  }
+
+  #writing-in-journal {
+    float: left
+  }
+
+  #art-journal {
+    float: right
+  }
+  
+  .header {
+    text-align: center;
+    margin: 10px;
+    padding: 5px;
+    background-color: rgb(32, 137, 179);
+    color: antiquewhite;
+  }
+
+  /* .journal-grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    background-color: #2196F3;
+    padding: 10px;
+  }
+  .grid-item {
+    background-color: rgba(255, 255, 255, 0.8);
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+  } */
